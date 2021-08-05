@@ -1,0 +1,10 @@
+// type this into the invisible .bashrc file to set the classpath//
+
+export CLASSPATH='$CLASSPATH:/home/basecaper/java:/usr/share/java/junit.jar:/home/basecaper/java/cpsc331/tutorials/junit.jar:/home/basecaper/java/cpsc331/tutorials/hamcrest-core.jar'
+alias javac='javac -d /home/basecaper/java'
+
+// also type this into the invisible .bash_profile file to set the classpath. if this file does not exist, then create it//
+
+export CLASSPATH='$CLASSPATH:/home/basecaper/java:/usr/share/java/junit.jar'
+alias javac='javac -d /home/basecaper/java'
+
