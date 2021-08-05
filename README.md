@@ -1,2 +1,2 @@
 # Data-Structures-Algorithms-and-Their-Analysis
-delete
+This repo contains my assignments for a course on Data Structures, Algorithms and their Analysis
